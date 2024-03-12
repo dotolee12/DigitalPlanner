@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "426b80ecb1745471",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced3bdce24c23a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55203e2a6b1d1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹개발의 이해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e41b3d0a214e44e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2402b3250606282d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cc38893dffbe23f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d17ed80e4049b3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "849c693a0903e78f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42525e56b306e155",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d0d24e41866bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d88adb75714f7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "웹개발의 이해.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c38665e2177fdce4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "웹개발의 이해.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a37f7e05049f5170",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cbfbb25a7c14cd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "웹개발의 이해.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c55203e2a6b1d1f5",
+  "lastOpenFiles": [
+    "new folder",
+    "웹개발의 이해.md"
+  ]
+}
